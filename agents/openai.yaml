@@ -1,0 +1,7 @@
+interface:
+  display_name: "Иск по договору поставки"
+  short_description: "Готовит иск о взыскании долга по поставке"
+  default_prompt: "Используй $isk-postavka-arbitrazh, чтобы проанализировать папку дела и подготовить готовый иск в арбитражный суд."
+
+policy:
+  allow_implicit_invocation: true
